@@ -2,7 +2,7 @@
 
 ### ☕ About Me 
 
-    🖥️ Technologies: Typescript | Node.js | Flutter | Angular
+    🖥️ Technologies: Typescript | Node.js | Angular | PHP | Vue
     👽 I love technology.
     ✅ Today I work in Web development
 
